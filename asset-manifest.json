@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nita-portfolio/static/css/main.18476075.css",
+    "main.js": "/nita-portfolio/static/js/main.d424d68d.js",
+    "index.html": "/nita-portfolio/index.html",
+    "main.18476075.css.map": "/nita-portfolio/static/css/main.18476075.css.map",
+    "main.d424d68d.js.map": "/nita-portfolio/static/js/main.d424d68d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18476075.css",
+    "static/js/main.d424d68d.js"
+  ]
+}
